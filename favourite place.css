@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bgc{
+    background-image: url("https://i.insider.com/58dc09bfdd0895ea7f8b46f9?width=1067&format=jpeg");
+    height: 100vh;
+    background-size:cover;
+}
+.header{
+    color: white;
+    font-family: roboto;
+    font-size: 40px;
+    padding: 20px;
+    font-weight:  bold;
+}
+.card{
+    background-color: white;
+    border-radius: 8px;
+    padding: 10px;
+    margin: 20px;
+}
+.heading-tajmahal{
+    color: #0f0e46;
+    font-weight: bold;
+}
+.para{
+    color:#0f0e46;
+}
+.card-image{
+    height: 150px;
+    width: 150px;
+    border-radius: 8px;
+}
+.ng{
+    margin-right: 70px;
+    padding: 20px;
+}

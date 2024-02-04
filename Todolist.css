@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.heading{
+    text-align:center;
+    font-style: Bold;
+    font-size: 50px;
+
+
+}
+.para1{
+    text-align:center;
+    color:white;
+}
+.h{
+    text-align: left;
+    text-color:#ffffff
+}
+.button{
+    
+    text-align: center;
+    height:40px;
+    width:150px;
+    padding:20px;
+    margin:20px;
+    background-color:orange;
+    color: #ffffff;
+    border-radius: 25px;
+
+}
+.para3{
+    text-align: center;
+    color:black;
+}
+.center{
+    text-align: center;
+    background-image: url("https://img.freepik.com/free-photo/flat-lay-notebook-with-list-desk_23-2148938726.jpg?w=900&t=st=1703932434~exp=1703933034~hmac=fbe4b8d0705b78418cc5a91600b06e828d8b1c7431f6ec13db7dec4012344a33");
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+    color: black
+}
+ 

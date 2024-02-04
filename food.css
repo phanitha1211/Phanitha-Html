@@ -1,0 +1,29 @@
+.meal{
+    text-align: center;
+    background-image: url("https://2.bp.blogspot.com/-V-dN0Hddngo/Wq6VuJpzZ1I/AAAAAAAANrc/YLljuhFVNsITTQnh9a-GKF7ukUS9QswKACLcBGAs/s1600/DSC_0959.JPG");
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+}
+.center{
+    text-align: center;
+    text-align:center;
+    background-color:#f6c56e;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    padding: 5px;
+
+
+}
+.button{
+    background-color: orangered;
+    border-radius: 25px;
+    color: #323f4b;
+   
+
+}
+.heding{
+    font-family: cursive;
+}
